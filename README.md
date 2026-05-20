@@ -2,72 +2,66 @@
 
 ## 📌 Overview
 
-This repository contains a curated collection of **SQL problems and solutions** (primarily from LeetCode) aimed at building strong foundations in **data analytics and database querying**.
+A curated collection of **SQL problems and solutions** focused on strengthening database querying and analytical thinking for **data analytics, business analytics, and technical interviews**.
 
-Each problem includes:
+This repository primarily includes problems from [LeetCode](https://leetcode.com/) along with detailed explanations and optimized SQL approaches.
 
-* ✅ Clean and optimized SQL query
-* 🧾 Well-structured explanation
-* 📊 Sample input/output for clarity
+🏅 Recently earned the **Top SQL 50** badge on LeetCode.
 
 ---
 
 ## 🎯 Goals
 
-* Strengthen SQL fundamentals
-* Prepare for **data analyst / business analyst interviews**
-* Practice real-world query patterns
-* Build a strong, visible GitHub portfolio
-
----
-
-Each folder contains:
-
-* Problem statement (brief)
-* SQL solution
-* Explanation (in README or comments)
+- Strengthen SQL fundamentals
+- Master real-world query patterns
+- Prepare for data analyst and BI interviews
+- Build a strong public portfolio on GitHub
+- Improve query optimization and problem-solving speed
 
 ---
 
 ## 🧩 Topics Covered
 
-* 🔍 Filtering (`WHERE`, `AND`, `OR`)
-* 🔗 Joins (`INNER`, `LEFT`, etc.)
-* 📊 Aggregations (`GROUP BY`, `HAVING`)
-* 🧮 Functions (`COUNT`, `SUM`, `AVG`)
-* 🧵 String Operations (`LENGTH`, `CHAR_LENGTH`)
-* ⚠️ NULL Handling (`IS NULL`, `IS NOT NULL`)
-* 🧠 Logical Conditions
+- 🔍 Filtering (`WHERE`, `AND`, `OR`)
+- 🔗 Joins (`INNER`, `LEFT`, `RIGHT`)
+- 📊 Aggregations (`GROUP BY`, `HAVING`)
+- 🧮 Functions (`COUNT`, `SUM`, `AVG`)
+- 🧵 String Operations
+- ⚠️ NULL Handling
+- 🧠 Logical Conditions
+- 📈 Basic Analytical Queries
 
 ---
 
-## 🚀 How to Use
+## 📂 Repository Structure
 
-1. Browse problems by difficulty
-2. Try solving them on your own
-3. Compare with provided solutions
-4. Focus on understanding the logic
+Each folder contains:
+
+- Problem statement summary
+- SQL solution
+- Query explanation
+- Notes on logic or edge cases
 
 ---
 
-## 💡 Key Learnings
+## 🚀 Progress
 
-* Writing efficient SQL queries
-* Handling edge cases
-* Understanding real-world data scenarios
-* Improving problem-solving speed
+- ✅ Solved 65+ SQL problems
+- 🏅 Earned LeetCode **Top SQL 50** badge
+- 📚 Actively expanding into medium and hard-level SQL problems
 
 ---
 
 ## 📈 Future Improvements
 
-* Add **medium & hard problems**
-* Include **window functions**
-* Add **real-world datasets**
-* Optimize queries with indexing concepts
+- Add advanced SQL concepts
+- Include window functions
+- Practice optimization techniques
+- Add real-world datasets and case studies
+- Explore PostgreSQL and MySQL differences
 
 ---
 
 ## 🔗 Author
 
-Built as part of a structured journey toward **data analytics and tech roles**.
+Built as part of a structured journey toward **data analytics and technology roles** through consistent problem solving and practical SQL practice.
